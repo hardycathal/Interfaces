@@ -7,7 +7,8 @@ public class OnlineOrderingSystem {
                 // Add menu items
                 new Burger("Beef Burger", 8.50, "Lettuce, Tomato, Onion"),
                 new Pizza("Isabella", 12.50, "Ham & Mushroom"),
-                new Salad("Caesar Salad", 5.50,"Romaine Lettuce, croutons, Caesar dressing, Chicken")
+                new Salad("Caesar Salad", 5.50,"Romaine Lettuce, croutons, Caesar dressing, Chicken"),
+                new Cocktails("Long Island Iced Tea", 11.50, "Vodka, Rum, Gin, Tequila, Triple Sec, Cola, Lemon Slice")
 
         };
 
